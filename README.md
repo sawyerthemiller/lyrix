@@ -5,7 +5,7 @@ The master server for the LYRIX project.
 LYRIX is an open source lyric player that allows users to play their own lyrics and music stored in a JSON file.
 
 ## Timing
-The timing in the JSON file is formated so: (m:s:ms)##
+The timing in the JSON file is formated so: (m:s:ms)
 
 ## Sample files and necessary downloads
 **Before running LYRIX, you must install ** *termcolor* ** via pip or the coloring function will not work**
